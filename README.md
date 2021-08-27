@@ -14,13 +14,6 @@
 
 <p align="center">A Fortnite HTTP/XMPP bot coded in Python with party capabilities.</p>
 
----
-
-## Offical Website
-[PartyBot.net](https://partybot.net)
-
-## Discord Support
-<a href="https://discord.gg/8heARRB"><img src="https://discordapp.com/api/guilds/624635034225213440/widget.png?style=banner2"></a>
 
 ## Installation
 PartyBot requires Python 3.6.1 or greater. If you want Python 3.7 (the recommended version), you can get it from here: [Python 3.7.0 Download](https://www.python.org/ftp/python/3.7.0/python-3.7.0-amd64.exe "Python 3.6.1 Download").
